@@ -1,1 +1,3 @@
 # React App
+
+yarn start
